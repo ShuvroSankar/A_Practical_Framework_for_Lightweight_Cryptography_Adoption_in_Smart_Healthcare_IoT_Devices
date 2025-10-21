@@ -1,0 +1,1821 @@
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7819 clen=5 (expect 5)
+[MST] PONG ok seq=5596 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7820 clen=5 (expect 5)
+[MST] PONG ok seq=5597 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7821 clen=5 (expect 5)
+[MST] PONG ok seq=5598 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7822 clen=5 (expect 5)
+[MST] PONG ok seq=5599 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7823 clen=5 (expect 5)
+[MST] PONG ok seq=5600 RTT=4.07 ms
+RTT_ASCON,n=5600,avg=4.27 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7824 clen=5 (expect 5)
+[MST] PONG ok seq=5601 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7825 clen=5 (expect 5)
+[MST] PONG ok seq=5602 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7826 clen=5 (expect 5)
+[MST] PONG ok seq=5603 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7827 clen=5 (expect 5)
+[MST] PONG ok seq=5604 RTT=4.64 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7828 clen=5 (expect 5)
+[MST] PONG ok seq=5605 RTT=4.32 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7829 clen=5 (expect 5)
+[MST] PONG ok seq=5606 RTT=4.31 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7830 clen=5 (expect 5)
+[MST] PONG ok seq=5607 RTT=4.85 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7831 clen=5 (expect 5)
+[MST] PONG ok seq=5608 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7832 clen=5 (expect 5)
+[MST] PONG ok seq=5609 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7833 clen=5 (expect 5)
+[MST] PONG ok seq=5610 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7834 clen=5 (expect 5)
+[MST] PONG ok seq=5611 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7835 clen=5 (expect 5)
+[MST] PONG ok seq=5612 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7836 clen=5 (expect 5)
+[MST] PONG ok seq=5613 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7837 clen=5 (expect 5)
+[MST] PONG ok seq=5614 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7838 clen=5 (expect 5)
+[MST] PONG ok seq=5615 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7839 clen=5 (expect 5)
+[MST] PONG ok seq=5616 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7840 clen=5 (expect 5)
+[MST] PONG ok seq=5617 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7841 clen=5 (expect 5)
+[MST] PONG ok seq=5618 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7842 clen=5 (expect 5)
+[MST] PONG ok seq=5619 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7843 clen=5 (expect 5)
+[MST] PONG ok seq=5620 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7844 clen=5 (expect 5)
+[MST] PONG ok seq=5621 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7845 clen=5 (expect 5)
+[MST] PONG ok seq=5622 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7846 clen=5 (expect 5)
+[MST] PONG ok seq=5623 RTT=4.39 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7847 clen=5 (expect 5)
+[MST] PONG ok seq=5624 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7848 clen=5 (expect 5)
+[MST] PONG ok seq=5625 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7849 clen=5 (expect 5)
+[MST] PONG ok seq=5626 RTT=4.20 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7850 clen=5 (expect 5)
+[MST] PONG ok seq=5627 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7851 clen=5 (expect 5)
+[MST] PONG ok seq=5628 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7852 clen=5 (expect 5)
+[MST] PONG ok seq=5629 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7853 clen=5 (expect 5)
+[MST] PONG ok seq=5630 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7854 clen=5 (expect 5)
+[MST] PONG ok seq=5631 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7855 clen=5 (expect 5)
+[MST] PONG ok seq=5632 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7856 clen=5 (expect 5)
+[MST] PONG ok seq=5633 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7857 clen=5 (expect 5)
+[MST] PONG ok seq=5634 RTT=4.32 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7858 clen=5 (expect 5)
+[MST] PONG ok seq=5635 RTT=7.72 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7859 clen=5 (expect 5)
+[MST] PONG ok seq=5636 RTT=6.76 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7860 clen=5 (expect 5)
+[MST] PONG ok seq=5637 RTT=4.75 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7861 clen=5 (expect 5)
+[MST] PONG ok seq=5638 RTT=5.76 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7862 clen=5 (expect 5)
+[MST] PONG ok seq=5639 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7863 clen=5 (expect 5)
+[MST] PONG ok seq=5640 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7864 clen=5 (expect 5)
+[MST] PONG ok seq=5641 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7865 clen=5 (expect 5)
+[MST] PONG ok seq=5642 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7866 clen=5 (expect 5)
+[MST] PONG ok seq=5643 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7867 clen=5 (expect 5)
+[MST] PONG ok seq=5644 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7868 clen=5 (expect 5)
+[MST] PONG ok seq=5645 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7869 clen=5 (expect 5)
+[MST] PONG ok seq=5646 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7870 clen=5 (expect 5)
+[MST] PONG ok seq=5647 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7871 clen=5 (expect 5)
+[MST] PONG ok seq=5648 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7872 clen=5 (expect 5)
+[MST] PONG ok seq=5649 RTT=7.39 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7873 clen=5 (expect 5)
+[MST] PONG ok seq=5650 RTT=5.60 ms
+RTT_ASCON,n=5650,avg=4.27 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7874 clen=5 (expect 5)
+[MST] PONG ok seq=5651 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7875 clen=5 (expect 5)
+[MST] PONG ok seq=5652 RTT=4.50 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7876 clen=5 (expect 5)
+[MST] PONG ok seq=5653 RTT=4.24 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7877 clen=5 (expect 5)
+[MST] PONG ok seq=5654 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7878 clen=5 (expect 5)
+[MST] PONG ok seq=5655 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7879 clen=5 (expect 5)
+[MST] PONG ok seq=5656 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7880 clen=5 (expect 5)
+[MST] PONG ok seq=5657 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7881 clen=5 (expect 5)
+[MST] PONG ok seq=5658 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7882 clen=5 (expect 5)
+[MST] PONG ok seq=5659 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7883 clen=5 (expect 5)
+[MST] PONG ok seq=5660 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7884 clen=5 (expect 5)
+[MST] PONG ok seq=5661 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7885 clen=5 (expect 5)
+[MST] PONG ok seq=5662 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7886 clen=5 (expect 5)
+[MST] PONG ok seq=5663 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7887 clen=5 (expect 5)
+[MST] PONG ok seq=5664 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7888 clen=5 (expect 5)
+[MST] PONG ok seq=5665 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7889 clen=5 (expect 5)
+[MST] PONG ok seq=5666 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7890 clen=5 (expect 5)
+[MST] PONG ok seq=5667 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7891 clen=5 (expect 5)
+[MST] PONG ok seq=5668 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7892 clen=5 (expect 5)
+[MST] PONG ok seq=5669 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7893 clen=5 (expect 5)
+[MST] PONG ok seq=5670 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7894 clen=5 (expect 5)
+[MST] PONG ok seq=5671 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7895 clen=5 (expect 5)
+[MST] PONG ok seq=5672 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7896 clen=5 (expect 5)
+[MST] PONG ok seq=5673 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7897 clen=5 (expect 5)
+[MST] PONG ok seq=5674 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7898 clen=5 (expect 5)
+[MST] PONG ok seq=5675 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7899 clen=5 (expect 5)
+[MST] PONG ok seq=5676 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7900 clen=5 (expect 5)
+[MST] PONG ok seq=5677 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7901 clen=5 (expect 5)
+[MST] PONG ok seq=5678 RTT=4.14 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7902 clen=5 (expect 5)
+[MST] PONG ok seq=5679 RTT=4.21 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7903 clen=5 (expect 5)
+[MST] PONG ok seq=5680 RTT=4.17 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7904 clen=5 (expect 5)
+[MST] PONG ok seq=5681 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7905 clen=5 (expect 5)
+[MST] PONG ok seq=5682 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7906 clen=5 (expect 5)
+[MST] PONG ok seq=5683 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7907 clen=5 (expect 5)
+[MST] PONG ok seq=5684 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7908 clen=5 (expect 5)
+[MST] PONG ok seq=5685 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7909 clen=5 (expect 5)
+[MST] PONG ok seq=5686 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7910 clen=5 (expect 5)
+[MST] PONG ok seq=5687 RTT=4.12 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7911 clen=5 (expect 5)
+[MST] PONG ok seq=5688 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7912 clen=5 (expect 5)
+[MST] PONG ok seq=5689 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7913 clen=5 (expect 5)
+[MST] PONG ok seq=5690 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7914 clen=5 (expect 5)
+[MST] PONG ok seq=5691 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7915 clen=5 (expect 5)
+[MST] PONG ok seq=5692 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7916 clen=5 (expect 5)
+[MST] PONG ok seq=5693 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7917 clen=5 (expect 5)
+[MST] PONG ok seq=5694 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7918 clen=5 (expect 5)
+[MST] PONG ok seq=5695 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7919 clen=5 (expect 5)
+[MST] PONG ok seq=5696 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7920 clen=5 (expect 5)
+[MST] PONG ok seq=5697 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7921 clen=5 (expect 5)
+[MST] PONG ok seq=5698 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7922 clen=5 (expect 5)
+[MST] PONG ok seq=5699 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7923 clen=5 (expect 5)
+[MST] PONG ok seq=5700 RTT=4.08 ms
+RTT_ASCON,n=5700,avg=4.27 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7924 clen=5 (expect 5)
+[MST] PONG ok seq=5701 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7925 clen=5 (expect 5)
+[MST] PONG ok seq=5702 RTT=4.10 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7926 clen=5 (expect 5)
+[MST] PONG ok seq=5703 RTT=4.43 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7927 clen=5 (expect 5)
+[MST] PONG ok seq=5704 RTT=5.71 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7928 clen=5 (expect 5)
+[MST] PONG ok seq=5705 RTT=4.16 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7929 clen=5 (expect 5)
+[MST] PONG ok seq=5706 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7930 clen=5 (expect 5)
+[MST] PONG ok seq=5707 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7931 clen=5 (expect 5)
+[MST] PONG ok seq=5708 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7932 clen=5 (expect 5)
+[MST] PONG ok seq=5709 RTT=4.45 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7933 clen=5 (expect 5)
+[MST] PONG ok seq=5710 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7934 clen=5 (expect 5)
+[MST] PONG ok seq=5711 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7935 clen=5 (expect 5)
+[MST] PONG ok seq=5712 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7936 clen=5 (expect 5)
+[MST] PONG ok seq=5713 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7937 clen=5 (expect 5)
+[MST] PONG ok seq=5714 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7938 clen=5 (expect 5)
+[MST] PONG ok seq=5715 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7939 clen=5 (expect 5)
+[MST] PONG ok seq=5716 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7940 clen=5 (expect 5)
+[MST] PONG ok seq=5717 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7941 clen=5 (expect 5)
+[MST] PONG ok seq=5718 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7942 clen=5 (expect 5)
+[MST] PONG ok seq=5719 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7943 clen=5 (expect 5)
+[MST] PONG ok seq=5720 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7944 clen=5 (expect 5)
+[MST] PONG ok seq=5721 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7945 clen=5 (expect 5)
+[MST] PONG ok seq=5722 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7946 clen=5 (expect 5)
+[MST] PONG ok seq=5723 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7947 clen=5 (expect 5)
+[MST] PONG ok seq=5724 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7948 clen=5 (expect 5)
+[MST] PONG ok seq=5725 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7949 clen=5 (expect 5)
+[MST] PONG ok seq=5726 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7950 clen=5 (expect 5)
+[MST] PONG ok seq=5727 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7951 clen=5 (expect 5)
+[MST] PONG ok seq=5728 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7952 clen=5 (expect 5)
+[MST] PONG ok seq=5729 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7953 clen=5 (expect 5)
+[MST] PONG ok seq=5730 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7954 clen=5 (expect 5)
+[MST] PONG ok seq=5731 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7955 clen=5 (expect 5)
+[MST] PONG ok seq=5732 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7956 clen=5 (expect 5)
+[MST] PONG ok seq=5733 RTT=3.95 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7957 clen=5 (expect 5)
+[MST] PONG ok seq=5734 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7958 clen=5 (expect 5)
+[MST] PONG ok seq=5735 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7959 clen=5 (expect 5)
+[MST] PONG ok seq=5736 RTT=4.10 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7960 clen=5 (expect 5)
+[MST] PONG ok seq=5737 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7961 clen=5 (expect 5)
+[MST] PONG ok seq=5738 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7962 clen=5 (expect 5)
+[MST] PONG ok seq=5739 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7963 clen=5 (expect 5)
+[MST] PONG ok seq=5740 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7964 clen=5 (expect 5)
+[MST] PONG ok seq=5741 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7965 clen=5 (expect 5)
+[MST] PONG ok seq=5742 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7966 clen=5 (expect 5)
+[MST] PONG ok seq=5743 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7967 clen=5 (expect 5)
+[MST] PONG ok seq=5744 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7968 clen=5 (expect 5)
+[MST] PONG ok seq=5745 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7969 clen=5 (expect 5)
+[MST] PONG ok seq=5746 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7970 clen=5 (expect 5)
+[MST] PONG ok seq=5747 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7971 clen=5 (expect 5)
+[MST] PONG ok seq=5748 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7972 clen=5 (expect 5)
+[MST] PONG ok seq=5749 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7973 clen=5 (expect 5)
+[MST] PONG ok seq=5750 RTT=3.95 ms
+RTT_ASCON,n=5750,avg=4.27 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7974 clen=5 (expect 5)
+[MST] PONG ok seq=5751 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7975 clen=5 (expect 5)
+[MST] PONG ok seq=5752 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7976 clen=5 (expect 5)
+[MST] PONG ok seq=5753 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7977 clen=5 (expect 5)
+[MST] PONG ok seq=5754 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7978 clen=5 (expect 5)
+[MST] PONG ok seq=5755 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7979 clen=5 (expect 5)
+[MST] PONG ok seq=5756 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7980 clen=5 (expect 5)
+[MST] PONG ok seq=5757 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7981 clen=5 (expect 5)
+[MST] PONG ok seq=5758 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7982 clen=5 (expect 5)
+[MST] PONG ok seq=5759 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7983 clen=5 (expect 5)
+[MST] PONG ok seq=5760 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7984 clen=5 (expect 5)
+[MST] PONG ok seq=5761 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7985 clen=5 (expect 5)
+[MST] PONG ok seq=5762 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7986 clen=5 (expect 5)
+[MST] PONG ok seq=5763 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7987 clen=5 (expect 5)
+[MST] PONG ok seq=5764 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7988 clen=5 (expect 5)
+[MST] PONG ok seq=5765 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7989 clen=5 (expect 5)
+[MST] PONG ok seq=5766 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7990 clen=5 (expect 5)
+[MST] PONG ok seq=5767 RTT=6.12 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7991 clen=5 (expect 5)
+[MST] PONG ok seq=5768 RTT=6.32 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7992 clen=5 (expect 5)
+[MST] PONG ok seq=5769 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7993 clen=5 (expect 5)
+[MST] PONG ok seq=5770 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7994 clen=5 (expect 5)
+[MST] PONG ok seq=5771 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7995 clen=5 (expect 5)
+[MST] PONG ok seq=5772 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7996 clen=5 (expect 5)
+[MST] PONG ok seq=5773 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7997 clen=5 (expect 5)
+[MST] PONG ok seq=5774 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7998 clen=5 (expect 5)
+[MST] PONG ok seq=5775 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=7999 clen=5 (expect 5)
+[MST] PONG ok seq=5776 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8000 clen=5 (expect 5)
+[MST] PONG ok seq=5777 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8001 clen=5 (expect 5)
+[MST] PONG ok seq=5778 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8002 clen=5 (expect 5)
+[MST] PONG ok seq=5779 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8003 clen=5 (expect 5)
+[MST] PONG ok seq=5780 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8004 clen=5 (expect 5)
+[MST] PONG ok seq=5781 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8005 clen=5 (expect 5)
+[MST] PONG ok seq=5782 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8006 clen=5 (expect 5)
+[MST] PONG ok seq=5783 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8007 clen=5 (expect 5)
+[MST] PONG ok seq=5784 RTT=4.13 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8008 clen=5 (expect 5)
+[MST] PONG ok seq=5785 RTT=4.16 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8009 clen=5 (expect 5)
+[MST] PONG ok seq=5786 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8010 clen=5 (expect 5)
+[MST] PONG ok seq=5787 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8011 clen=5 (expect 5)
+[MST] PONG ok seq=5788 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8012 clen=5 (expect 5)
+[MST] PONG ok seq=5789 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8013 clen=5 (expect 5)
+[MST] PONG ok seq=5790 RTT=4.32 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8014 clen=5 (expect 5)
+[MST] PONG ok seq=5791 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8015 clen=5 (expect 5)
+[MST] PONG ok seq=5792 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8016 clen=5 (expect 5)
+[MST] PONG ok seq=5793 RTT=5.59 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8017 clen=5 (expect 5)
+[MST] PONG ok seq=5794 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8018 clen=5 (expect 5)
+[MST] PONG ok seq=5795 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8019 clen=5 (expect 5)
+[MST] PONG ok seq=5796 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8020 clen=5 (expect 5)
+[MST] PONG ok seq=5797 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8021 clen=5 (expect 5)
+[MST] PONG ok seq=5798 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8022 clen=5 (expect 5)
+[MST] PONG ok seq=5799 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8023 clen=5 (expect 5)
+[MST] PONG ok seq=5800 RTT=4.11 ms
+RTT_ASCON,n=5800,avg=4.26 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8024 clen=5 (expect 5)
+[MST] PONG ok seq=5801 RTT=5.33 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8025 clen=5 (expect 5)
+[MST] PONG ok seq=5802 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8026 clen=5 (expect 5)
+[MST] PONG ok seq=5803 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8027 clen=5 (expect 5)
+[MST] PONG ok seq=5804 RTT=4.10 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8028 clen=5 (expect 5)
+[MST] PONG ok seq=5805 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8029 clen=5 (expect 5)
+[MST] PONG ok seq=5806 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8030 clen=5 (expect 5)
+[MST] PONG ok seq=5807 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8031 clen=5 (expect 5)
+[MST] PONG ok seq=5808 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8032 clen=5 (expect 5)
+[MST] PONG ok seq=5809 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8033 clen=5 (expect 5)
+[MST] PONG ok seq=5810 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8034 clen=5 (expect 5)
+[MST] PONG ok seq=5811 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8035 clen=5 (expect 5)
+[MST] PONG ok seq=5812 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8036 clen=5 (expect 5)
+[MST] PONG ok seq=5813 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8037 clen=5 (expect 5)
+[MST] PONG ok seq=5814 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8038 clen=5 (expect 5)
+[MST] PONG ok seq=5815 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8039 clen=5 (expect 5)
+[MST] PONG ok seq=5816 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8040 clen=5 (expect 5)
+[MST] PONG ok seq=5817 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8041 clen=5 (expect 5)
+[MST] PONG ok seq=5818 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8042 clen=5 (expect 5)
+[MST] PONG ok seq=5819 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8043 clen=5 (expect 5)
+[MST] PONG ok seq=5820 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8044 clen=5 (expect 5)
+[MST] PONG ok seq=5821 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8045 clen=5 (expect 5)
+[MST] PONG ok seq=5822 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8046 clen=5 (expect 5)
+[MST] PONG ok seq=5823 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8047 clen=5 (expect 5)
+[MST] PONG ok seq=5824 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8048 clen=5 (expect 5)
+[MST] PONG ok seq=5825 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8049 clen=5 (expect 5)
+[MST] PONG ok seq=5826 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8050 clen=5 (expect 5)
+[MST] PONG ok seq=5827 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8051 clen=5 (expect 5)
+[MST] PONG ok seq=5828 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8052 clen=5 (expect 5)
+[MST] PONG ok seq=5829 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8053 clen=5 (expect 5)
+[MST] PONG ok seq=5830 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8054 clen=5 (expect 5)
+[MST] PONG ok seq=5831 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8055 clen=5 (expect 5)
+[MST] PONG ok seq=5832 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8056 clen=5 (expect 5)
+[MST] PONG ok seq=5833 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8057 clen=5 (expect 5)
+[MST] PONG ok seq=5834 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8058 clen=5 (expect 5)
+[MST] PONG ok seq=5835 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8059 clen=5 (expect 5)
+[MST] PONG ok seq=5836 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8060 clen=5 (expect 5)
+[MST] PONG ok seq=5837 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8061 clen=5 (expect 5)
+[MST] PONG ok seq=5838 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8062 clen=5 (expect 5)
+[MST] PONG ok seq=5839 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8063 clen=5 (expect 5)
+[MST] PONG ok seq=5840 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8064 clen=5 (expect 5)
+[MST] PONG ok seq=5841 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8065 clen=5 (expect 5)
+[MST] PONG ok seq=5842 RTT=11.57 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8066 clen=5 (expect 5)
+[MST] PONG ok seq=5843 RTT=4.30 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8067 clen=5 (expect 5)
+[MST] PONG ok seq=5844 RTT=4.32 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8068 clen=5 (expect 5)
+[MST] PONG ok seq=5845 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8069 clen=5 (expect 5)
+[MST] PONG ok seq=5846 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8070 clen=5 (expect 5)
+[MST] PONG ok seq=5847 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8071 clen=5 (expect 5)
+[MST] PONG ok seq=5848 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8072 clen=5 (expect 5)
+[MST] PONG ok seq=5849 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8073 clen=5 (expect 5)
+[MST] PONG ok seq=5850 RTT=3.99 ms
+RTT_ASCON,n=5850,avg=4.26 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8074 clen=5 (expect 5)
+[MST] PONG ok seq=5851 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8075 clen=5 (expect 5)
+[MST] PONG ok seq=5852 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8076 clen=5 (expect 5)
+[MST] PONG ok seq=5853 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8077 clen=5 (expect 5)
+[MST] PONG ok seq=5854 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8078 clen=5 (expect 5)
+[MST] PONG ok seq=5855 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8079 clen=5 (expect 5)
+[MST] PONG ok seq=5856 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8080 clen=5 (expect 5)
+[MST] PONG ok seq=5857 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8081 clen=5 (expect 5)
+[MST] PONG ok seq=5858 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8082 clen=5 (expect 5)
+[MST] PONG ok seq=5859 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8083 clen=5 (expect 5)
+[MST] PONG ok seq=5860 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8084 clen=5 (expect 5)
+[MST] PONG ok seq=5861 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8085 clen=5 (expect 5)
+[MST] PONG ok seq=5862 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8086 clen=5 (expect 5)
+[MST] PONG ok seq=5863 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8087 clen=5 (expect 5)
+[MST] PONG ok seq=5864 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8088 clen=5 (expect 5)
+[MST] PONG ok seq=5865 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8089 clen=5 (expect 5)
+[MST] PONG ok seq=5866 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8090 clen=5 (expect 5)
+[MST] PONG ok seq=5867 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8091 clen=5 (expect 5)
+[MST] PONG ok seq=5868 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8092 clen=5 (expect 5)
+[MST] PONG ok seq=5869 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8093 clen=5 (expect 5)
+[MST] PONG ok seq=5870 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8094 clen=5 (expect 5)
+[MST] PONG ok seq=5871 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8095 clen=5 (expect 5)
+[MST] PONG ok seq=5872 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8096 clen=5 (expect 5)
+[MST] PONG ok seq=5873 RTT=4.09 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8097 clen=5 (expect 5)
+[MST] PONG ok seq=5874 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8098 clen=5 (expect 5)
+[MST] PONG ok seq=5875 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8099 clen=5 (expect 5)
+[MST] PONG ok seq=5876 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8100 clen=5 (expect 5)
+[MST] PONG ok seq=5877 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8101 clen=5 (expect 5)
+[MST] PONG ok seq=5878 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8102 clen=5 (expect 5)
+[MST] PONG ok seq=5879 RTT=4.14 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8103 clen=5 (expect 5)
+[MST] PONG ok seq=5880 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8104 clen=5 (expect 5)
+[MST] PONG ok seq=5881 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8105 clen=5 (expect 5)
+[MST] PONG ok seq=5882 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8106 clen=5 (expect 5)
+[MST] PONG ok seq=5883 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8107 clen=5 (expect 5)
+[MST] PONG ok seq=5884 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8108 clen=5 (expect 5)
+[MST] PONG ok seq=5885 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8109 clen=5 (expect 5)
+[MST] PONG ok seq=5886 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8110 clen=5 (expect 5)
+[MST] PONG ok seq=5887 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8111 clen=5 (expect 5)
+[MST] PONG ok seq=5888 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8112 clen=5 (expect 5)
+[MST] PONG ok seq=5889 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8113 clen=5 (expect 5)
+[MST] PONG ok seq=5890 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8114 clen=5 (expect 5)
+[MST] PONG ok seq=5891 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8115 clen=5 (expect 5)
+[MST] PONG ok seq=5892 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8116 clen=5 (expect 5)
+[MST] PONG ok seq=5893 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8117 clen=5 (expect 5)
+[MST] PONG ok seq=5894 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8118 clen=5 (expect 5)
+[MST] PONG ok seq=5895 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8119 clen=5 (expect 5)
+[MST] PONG ok seq=5896 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8120 clen=5 (expect 5)
+[MST] PONG ok seq=5897 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8121 clen=5 (expect 5)
+[MST] PONG ok seq=5898 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8122 clen=5 (expect 5)
+[MST] PONG ok seq=5899 RTT=5.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8123 clen=5 (expect 5)
+[MST] PONG ok seq=5900 RTT=4.01 ms
+RTT_ASCON,n=5900,avg=4.26 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8124 clen=5 (expect 5)
+[MST] PONG ok seq=5901 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8125 clen=5 (expect 5)
+[MST] PONG ok seq=5902 RTT=4.12 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8126 clen=5 (expect 5)
+[MST] PONG ok seq=5903 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8127 clen=5 (expect 5)
+[MST] PONG ok seq=5904 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8128 clen=5 (expect 5)
+[MST] PONG ok seq=5905 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8129 clen=5 (expect 5)
+[MST] PONG ok seq=5906 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8130 clen=5 (expect 5)
+[MST] PONG ok seq=5907 RTT=5.43 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8131 clen=5 (expect 5)
+[MST] PONG ok seq=5908 RTT=4.16 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8132 clen=5 (expect 5)
+[MST] PONG ok seq=5909 RTT=4.13 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8133 clen=5 (expect 5)
+[MST] PONG ok seq=5910 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8134 clen=5 (expect 5)
+[MST] PONG ok seq=5911 RTT=4.29 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8135 clen=5 (expect 5)
+[MST] PONG ok seq=5912 RTT=4.22 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8136 clen=5 (expect 5)
+[MST] PONG ok seq=5913 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8137 clen=5 (expect 5)
+[MST] PONG ok seq=5914 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8138 clen=5 (expect 5)
+[MST] PONG ok seq=5915 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8139 clen=5 (expect 5)
+[MST] PONG ok seq=5916 RTT=6.81 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8140 clen=5 (expect 5)
+[MST] PONG ok seq=5917 RTT=5.41 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8141 clen=5 (expect 5)
+[MST] PONG ok seq=5918 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8142 clen=5 (expect 5)
+[MST] PONG ok seq=5919 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8143 clen=5 (expect 5)
+[MST] PONG ok seq=5920 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8144 clen=5 (expect 5)
+[MST] PONG ok seq=5921 RTT=4.29 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8145 clen=5 (expect 5)
+[MST] PONG ok seq=5922 RTT=4.35 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8146 clen=5 (expect 5)
+[MST] PONG ok seq=5923 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8147 clen=5 (expect 5)
+[MST] PONG ok seq=5924 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8148 clen=5 (expect 5)
+[MST] PONG ok seq=5925 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8149 clen=5 (expect 5)
+[MST] PONG ok seq=5926 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8150 clen=5 (expect 5)
+[MST] PONG ok seq=5927 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8151 clen=5 (expect 5)
+[MST] PONG ok seq=5928 RTT=4.39 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8152 clen=5 (expect 5)
+[MST] PONG ok seq=5929 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8153 clen=5 (expect 5)
+[MST] PONG ok seq=5930 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8154 clen=5 (expect 5)
+[MST] PONG ok seq=5931 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8155 clen=5 (expect 5)
+[MST] PONG ok seq=5932 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8156 clen=5 (expect 5)
+[MST] PONG ok seq=5933 RTT=4.41 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8157 clen=5 (expect 5)
+[MST] PONG ok seq=5934 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8158 clen=5 (expect 5)
+[MST] PONG ok seq=5935 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8159 clen=5 (expect 5)
+[MST] PONG ok seq=5936 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8160 clen=5 (expect 5)
+[MST] PONG ok seq=5937 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8161 clen=5 (expect 5)
+[MST] PONG ok seq=5938 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8162 clen=5 (expect 5)
+[MST] PONG ok seq=5939 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8163 clen=5 (expect 5)
+[MST] PONG ok seq=5940 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8164 clen=5 (expect 5)
+[MST] PONG ok seq=5941 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8165 clen=5 (expect 5)
+[MST] PONG ok seq=5942 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8166 clen=5 (expect 5)
+[MST] PONG ok seq=5943 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8167 clen=5 (expect 5)
+[MST] PONG ok seq=5944 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8168 clen=5 (expect 5)
+[MST] PONG ok seq=5945 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8169 clen=5 (expect 5)
+[MST] PONG ok seq=5946 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8170 clen=5 (expect 5)
+[MST] PONG ok seq=5947 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8171 clen=5 (expect 5)
+[MST] PONG ok seq=5948 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8172 clen=5 (expect 5)
+[MST] PONG ok seq=5949 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8173 clen=5 (expect 5)
+[MST] PONG ok seq=5950 RTT=3.94 ms
+RTT_ASCON,n=5950,avg=4.26 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8174 clen=5 (expect 5)
+[MST] PONG ok seq=5951 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8175 clen=5 (expect 5)
+[MST] PONG ok seq=5952 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8176 clen=5 (expect 5)
+[MST] PONG ok seq=5953 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8177 clen=5 (expect 5)
+[MST] PONG ok seq=5954 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8178 clen=5 (expect 5)
+[MST] PONG ok seq=5955 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8179 clen=5 (expect 5)
+[MST] PONG ok seq=5956 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8180 clen=5 (expect 5)
+[MST] PONG ok seq=5957 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8181 clen=5 (expect 5)
+[MST] PONG ok seq=5958 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8182 clen=5 (expect 5)
+[MST] PONG ok seq=5959 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8183 clen=5 (expect 5)
+[MST] PONG ok seq=5960 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8184 clen=5 (expect 5)
+[MST] PONG ok seq=5961 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8185 clen=5 (expect 5)
+[MST] PONG ok seq=5962 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8186 clen=5 (expect 5)
+[MST] PONG ok seq=5963 RTT=5.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8187 clen=5 (expect 5)
+[MST] PONG ok seq=5964 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8188 clen=5 (expect 5)
+[MST] PONG ok seq=5965 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8189 clen=5 (expect 5)
+[MST] PONG ok seq=5966 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8190 clen=5 (expect 5)
+[MST] PONG ok seq=5967 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8191 clen=5 (expect 5)
+[MST] PONG ok seq=5968 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8192 clen=5 (expect 5)
+[MST] PONG ok seq=5969 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8193 clen=5 (expect 5)
+[MST] PONG ok seq=5970 RTT=4.54 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8194 clen=5 (expect 5)
+[MST] PONG ok seq=5971 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8195 clen=5 (expect 5)
+[MST] PONG ok seq=5972 RTT=3.95 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8196 clen=5 (expect 5)
+[MST] PONG ok seq=5973 RTT=4.70 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8197 clen=5 (expect 5)
+[MST] PONG ok seq=5974 RTT=4.16 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8198 clen=5 (expect 5)
+[MST] PONG ok seq=5975 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8199 clen=5 (expect 5)
+[MST] PONG ok seq=5976 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8200 clen=5 (expect 5)
+[MST] PONG ok seq=5977 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8201 clen=5 (expect 5)
+[MST] PONG ok seq=5978 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8202 clen=5 (expect 5)
+[MST] PONG ok seq=5979 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8203 clen=5 (expect 5)
+[MST] PONG ok seq=5980 RTT=5.28 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8204 clen=5 (expect 5)
+[MST] PONG ok seq=5981 RTT=8.45 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8205 clen=5 (expect 5)
+[MST] PONG ok seq=5982 RTT=4.17 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8206 clen=5 (expect 5)
+[MST] PONG ok seq=5983 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8207 clen=5 (expect 5)
+[MST] PONG ok seq=5984 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8208 clen=5 (expect 5)
+[MST] PONG ok seq=5985 RTT=4.13 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8209 clen=5 (expect 5)
+[MST] PONG ok seq=5986 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8210 clen=5 (expect 5)
+[MST] PONG ok seq=5987 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8211 clen=5 (expect 5)
+[MST] PONG ok seq=5988 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8212 clen=5 (expect 5)
+[MST] PONG ok seq=5989 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8213 clen=5 (expect 5)
+[MST] PONG ok seq=5990 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8214 clen=5 (expect 5)
+[MST] PONG ok seq=5991 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8215 clen=5 (expect 5)
+[MST] PONG ok seq=5992 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8216 clen=5 (expect 5)
+[MST] PONG ok seq=5993 RTT=3.96 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8217 clen=5 (expect 5)
+[MST] PONG ok seq=5994 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8218 clen=5 (expect 5)
+[MST] PONG ok seq=5995 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8219 clen=5 (expect 5)
+[MST] PONG ok seq=5996 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8220 clen=5 (expect 5)
+[MST] PONG ok seq=5997 RTT=4.39 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8221 clen=5 (expect 5)
+[MST] PONG ok seq=5998 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8222 clen=5 (expect 5)
+[MST] PONG ok seq=5999 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8223 clen=5 (expect 5)
+[MST] PONG ok seq=6000 RTT=4.07 ms
+RTT_ASCON,n=6000,avg=4.26 ms,min=3.94,max=103.45
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8224 clen=5 (expect 5)
+[MST] PONG ok seq=6001 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8225 clen=5 (expect 5)
+[MST] PONG ok seq=6002 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8226 clen=5 (expect 5)
+[MST] PONG ok seq=6003 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8227 clen=5 (expect 5)
+[MST] PONG ok seq=6004 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8228 clen=5 (expect 5)
+[MST] PONG ok seq=6005 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8229 clen=5 (expect 5)
+[MST] PONG ok seq=6006 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8230 clen=5 (expect 5)
+[MST] PONG ok seq=6007 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8231 clen=5 (expect 5)
+[MST] PONG ok seq=6008 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8232 clen=5 (expect 5)
+[MST] PONG ok seq=6009 RTT=4.06 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8233 clen=5 (expect 5)
+[MST] PONG ok seq=6010 RTT=4.01 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8234 clen=5 (expect 5)
+[MST] PONG ok seq=6011 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8235 clen=5 (expect 5)
+[MST] PONG ok seq=6012 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8236 clen=5 (expect 5)
+[MST] PONG ok seq=6013 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8237 clen=5 (expect 5)
+[MST] PONG ok seq=6014 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8238 clen=5 (expect 5)
+[MST] PONG ok seq=6015 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8239 clen=5 (expect 5)
+[MST] PONG ok seq=6016 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8240 clen=5 (expect 5)
+[MST] PONG ok seq=6017 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8241 clen=5 (expect 5)
+[MST] PONG ok seq=6018 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8242 clen=5 (expect 5)
+[MST] PONG ok seq=6019 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8243 clen=5 (expect 5)
+[MST] PONG ok seq=6020 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8244 clen=5 (expect 5)
+[MST] PONG ok seq=6021 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8245 clen=5 (expect 5)
+[MST] PONG ok seq=6022 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8246 clen=5 (expect 5)
+[MST] PONG ok seq=6023 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8247 clen=5 (expect 5)
+[MST] PONG ok seq=6024 RTT=4.11 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8248 clen=5 (expect 5)
+[MST] PONG ok seq=6025 RTT=6.48 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8249 clen=5 (expect 5)
+[MST] PONG ok seq=6026 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8250 clen=5 (expect 5)
+[MST] PONG ok seq=6027 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8251 clen=5 (expect 5)
+[MST] PONG ok seq=6028 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8252 clen=5 (expect 5)
+[MST] PONG ok seq=6029 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8253 clen=5 (expect 5)
+[MST] PONG ok seq=6030 RTT=4.19 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8254 clen=5 (expect 5)
+[MST] PONG ok seq=6031 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8255 clen=5 (expect 5)
+[MST] PONG ok seq=6032 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8256 clen=5 (expect 5)
+[MST] PONG ok seq=6033 RTT=4.02 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8257 clen=5 (expect 5)
+[MST] PONG ok seq=6034 RTT=4.14 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8258 clen=5 (expect 5)
+[MST] PONG ok seq=6035 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8259 clen=5 (expect 5)
+[MST] PONG ok seq=6036 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8260 clen=5 (expect 5)
+[MST] PONG ok seq=6037 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8261 clen=5 (expect 5)
+[MST] PONG ok seq=6038 RTT=3.99 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8262 clen=5 (expect 5)
+[MST] PONG ok seq=6039 RTT=4.08 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8263 clen=5 (expect 5)
+[MST] PONG ok seq=6040 RTT=3.97 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8264 clen=5 (expect 5)
+[MST] PONG ok seq=6041 RTT=4.04 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8265 clen=5 (expect 5)
+[MST] PONG ok seq=6042 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8266 clen=5 (expect 5)
+[MST] PONG ok seq=6043 RTT=4.07 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8267 clen=5 (expect 5)
+[MST] PONG ok seq=6044 RTT=4.03 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8268 clen=5 (expect 5)
+[MST] PONG ok seq=6045 RTT=4.00 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8269 clen=5 (expect 5)
+[MST] PONG ok seq=6046 RTT=4.05 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8270 clen=5 (expect 5)
+[MST] PONG ok seq=6047 RTT=3.98 ms
+[MST] PING to 40:4C:CA:4C:6E:60 : ACKED
+[MST] RX len=41 from 40:4C:CA:4C:6E:60
+[MST] ctr=8271 clen=5 (expect 5)
+[MST] PONG ok seq=6048 RTT=4.06 ms
